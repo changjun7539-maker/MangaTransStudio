@@ -48,6 +48,7 @@ ANIS Trans가 없어도 **수동 번역 모드**로 검수·식자·출력을 �
 | 일본어 OCR 모델 [kha-white/manga-ocr-base](https://huggingface.co/kha-white/manga-ocr-base) | Apache License 2.0 |
 | 글자 찾기 모델 [ogkalu/comic-text-and-bubble-detector](https://huggingface.co/ogkalu/comic-text-and-bubble-detector) | Apache License 2.0 |
 | 지운 자리 복원 모델 [JosephCatrambone/big-lama-torchscript](https://huggingface.co/JosephCatrambone/big-lama-torchscript) | Apache License 2.0 |
+| 그림 위 글자 픽셀 찾기 모델 [TareHimself/comic-text-mask](https://huggingface.co/TareHimself/comic-text-mask) | MIT |
 | Qt / PySide6 | LGPL v3 |
 | PyTorch, NumPy | BSD |
 | Transformers, OpenCV, manga-ocr | Apache License 2.0 |
