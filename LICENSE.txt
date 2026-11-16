@@ -1,0 +1,18 @@
+Manga Trans Studio
+Copyright (c) 2026 changjun7539-maker. All rights reserved.
+
+이 프로그램(Manga Trans Studio)과 배포 파일은 저작권자의 허락 없이 수정, 역설계(디컴파일), 재배포, 판매,
+다른 사이트·저장소에 다시 올리기를 할 수 없습니다. 개인적인 사용은 자유롭게 할 수 있습니다.
+공유할 때는 공식 배포처(이 저장소의 Releases) 링크를 알려 주세요.
+
+This program (Manga Trans Studio) and its distribution files may not be modified, reverse-engineered
+(decompiled), redistributed, sold or re-uploaded elsewhere without the copyright holder's permission.
+Personal use is permitted. Please share the link to the official Releases page instead of the files.
+
+Third-party components included in the distribution (AI models, Qt/PySide6, PyTorch, Transformers,
+OpenCV, NumPy and others) are NOT covered by the above: each is licensed under its own license
+(see the "licenses" folder and 라이선스_및_출처.txt in the distribution), and nothing here limits the
+rights those licenses grant (for example, replacing the Qt libraries under the LGPL).
+
+ANIS Trans is not included and is governed by its own license
+(https://github.com/jintigers/anis-trans, https://krmod.anis.co.kr/ai-lab?section=download).
