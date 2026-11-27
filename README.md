@@ -71,6 +71,8 @@ GeTrans는 **0.2.0부터 받은 압축 안에 번역 모델(어댑터)이 들어
 
 - **설치 위치**: 처음에 엔진을 둘 곳을 물어요. [알아서 해 주세요]를 고르면 여유 공간이 넉넉한 다른 드라이브(예: D)를
   골라 Windows 드라이브를 비워 두고, 원하면 직접 고를 수 있어요. 엔진·설치 파일·GeTrans 기본 모델(약 9.6GB)이 모두 그 폴더에 모여요.
+  0.1.6부터 엔진 폴더 이름은 `MangaTransStudio-engines`(예: `D:\MangaTransStudio-engines`)라서, 프로그램을 푼 `D:\MangaTransStudio`와 섞이지 않아요
+  (프로그램을 지우거나 새 버전으로 덮어써도 엔진은 그대로). 예전 버전에서 `D:\MangaTransStudio`에 엔진을 두었다면 그대로 찾아 써요.
 - **이 컴퓨터에 맞는 설정**: GPU 메모리·RAM·CPU를 보고 추천해요 (GPU 메모리 12GB 이상이면 두 엔진 동시 실행,
   CPU가 느리거나 RAM이 12GB보다 적으면 ANIS Trans만).
 
